@@ -3,9 +3,8 @@
 /vendor
 
 # Configuration
-/app/config/local
-/app/config/staging
-/app/config/production
+/app/config/dev
+/app/config/live
 
 # Basset development collections
 /public/assets/compiled/public
